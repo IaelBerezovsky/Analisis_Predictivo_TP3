@@ -1,0 +1,13 @@
+{
+  "modelos": [
+    "LightGBM",
+    "CatBoost ids crudos",
+    "TabICL top100"
+  ],
+  "pesos": [
+    0.6243232573991666,
+    0.17520067498688702,
+    0.20047606761394632
+  ],
+  "umbral": 0.5
+}
