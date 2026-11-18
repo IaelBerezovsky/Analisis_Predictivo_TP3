@@ -2,6 +2,10 @@
 
 Competencia de Kaggle (TP3): predecir si una publicación de MercadoLibre de 2015 es de un producto nuevo (`new`) o usado (`used`) a partir de sus datos (título, precio, stock, vendedor, categoría, fotos, atributos, fechas...). Métrica: accuracy.
 
+## Presentación
+
+[presentacion.pdf](presentacion.pdf): diapositivas con el recorrido del trabajo y el modelo final.
+
 | Validación anidada (5 folds) | Kaggle público | Kaggle privado | Puesto |
 |---|---|---|---|
 | 0,9473 | 0,94690 | 0,94844 | 11 / 32 |
